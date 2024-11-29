@@ -13,7 +13,7 @@ This project explores how AI chat applications handle memory through two differe
 
 This project is optimized for GitHub Codespaces, providing a pre-configured environment with all necessary dependencies.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)]([https://github.com](https://codespaces.new/mor10/false-memory?quickstart=1))
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mor10/false-memory?quickstart=1)
 
 ### Manual installation
 
