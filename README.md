@@ -21,7 +21,7 @@ This project is optimized for GitHub Codespaces, providing a pre-configured envi
 
 2. Install Python dependencies
    ```sh
-   pip install
+   pip install -r requirements.txt
    ```
 
 ## API Integration
